@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj Patel
 - 👀 I’m interested in programming and Developing
 - 🌱 I’m currently learning Android App Devlopment with Java
-- 📫 How to reach me : [Email](rajpatel7807@gmail.com) [LinkedIn](http://www.linkedin.com/in/raj-patel7807)
+- 📫 How to reach me : [LinkedIn](http://www.linkedin.com/in/raj-patel7807)
 - 😄 Pronouns : He/Him
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
